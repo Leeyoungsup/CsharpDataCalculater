@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\bin\Debug\netcoreapp3.1\DataCalculater.exe
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\bin\Debug\netcoreapp3.1\DataCalculater.deps.json
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\bin\Debug\netcoreapp3.1\DataCalculater.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\bin\Debug\netcoreapp3.1\DataCalculater.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\bin\Debug\netcoreapp3.1\DataCalculater.dll
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\bin\Debug\netcoreapp3.1\DataCalculater.pdb
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.dll
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.pdb
+C:\Users\lys\Desktop\CSharp\development_part1\DataCalculater\obj\Debug\netcoreapp3.1\DataCalculater.genruntimeconfig.cache

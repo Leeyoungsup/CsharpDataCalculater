@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaTn1ZBMmcaDbzLHqKGWYmimy7ujGpYySaTLjl4hulMa1HiyeI3aMEx76bbSXJHarEbBDAocnRjcU2+lhy4C+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lys\\Desktop\\CSharp\\development_part1\\DataCalculater\\DataCalculater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lys\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
